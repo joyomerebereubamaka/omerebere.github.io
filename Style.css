@@ -1,0 +1,35 @@
+
+img {
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    
+}
+
+
+
+#image {
+    display: flex;
+    flex direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    
+}
+.imagename {
+    font-size: medium;
+    font-weight: bold;
+    color: purple;
+    text-align: center;
+    margin-top: 1px;
+    
+}
+#topic {
+    font-size: larger;
+    font-weight: bolder;
+    color: blue;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 200px;
+    
+}
